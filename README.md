@@ -1,4 +1,7 @@
 ### I love History and Programming
+### Rice and Noodle are the best food
+### I love coffee
+### I am from far east
 
 <!--
 **ricecake123/ricecake123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
