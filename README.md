@@ -1,10 +1,10 @@
-### I love History and Programming
-### Rice and Noodle are the best food
-### I love coffee
-### I am from far east
-<li> test1 </li>
-<li> test2 </li>
-
+<b> Hi nice to meet you! </b>
+<br></br>
+<li> I love songs from vocaloid </li>
+<li> I play osu! everyday</li>
+<li> I can't live without rice </li>
+<a href = "https://ricecake123.github.io"> My website </a>
+<image source = "https://i.pinimg.com/originals/3c/de/3e/3cde3e1fe79e02abdc287395f57d8578.gif" width="500" height="500"></image>
 <!--
 **ricecake123/ricecake123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
